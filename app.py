@@ -13,7 +13,7 @@ def get_tweets(fetched_tweets) :
     '''
     # empty list to store parsed tweets
     tweets = []
-
+# try
     try :
         # parsing tweets one by one
         for tweet in fetched_tweets :
